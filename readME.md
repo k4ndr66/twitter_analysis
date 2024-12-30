@@ -6,3 +6,5 @@ In order to run the code from **main_file.ipynb** you need to download following
 - [Glove](https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt)
 
 ...and then put them all in a folder with main file. If you need any help, feel free to ask!
+
+>! (Unfortunately, I couldn't upload them to github, since they're too big)
